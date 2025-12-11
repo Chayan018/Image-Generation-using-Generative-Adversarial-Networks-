@@ -5,4 +5,4 @@ This project is a deep learning–based platform for generating images using Gen
 The project demonstrates the full workflow of GAN-based image generation, from training on custom datasets to serving results through an API and interactive web interface.
 
 
-contributor: Arnab Kumar Kundu, Chayan Das
+
